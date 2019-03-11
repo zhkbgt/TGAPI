@@ -1,0 +1,6 @@
+framework module GTAPI {
+  umbrella header "GTAPI.h"
+
+  export *
+  module * { export * }
+}
